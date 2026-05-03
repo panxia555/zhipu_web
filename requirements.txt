@@ -1,4 +1,4 @@
-torch==2.2.2
+torch>=2.6.0
 numpy==1.26.0
 scipy==1.11.4
 pytorch_lightning==0.10.1
