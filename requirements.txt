@@ -13,3 +13,4 @@ scikit-learn>=1.6.0
 matplotlib>=3.9.0
 streamlit>=1.40.0
 plotly>=5.20.0
+fpdf2>=2.7.0
